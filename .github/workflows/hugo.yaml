@@ -65,7 +65,8 @@ jobs:
           echo "Node.js: $(node --version)"
       - name: Install Node.js dependencies
         run: |
-          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+          npm ci
+          npx --no-install tailwindcss --help > /dev/null
       - name: Configure Git
         run: |
           git config core.quotepath false
