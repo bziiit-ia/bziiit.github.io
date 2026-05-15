@@ -1,0 +1,16 @@
+enable: true
+title: "Our services"
+text: "Two complementary offers to embed Responsible AI in your processes, at your own pace."
+cards:
+  - title: "AI Training"
+    text: "Build the skills your teams need to integrate AI into their day-to-day, with a pragmatic and responsible approach."
+    image: "images/services-web-development.png"
+    button:
+      label: "Learn more"
+      link: "mailto:contact@bziiit.com?subject=AI%20Training"
+  - title: "AI Strategic Advisory"
+    text: "A tailored approach to address your challenges in agriculture, logistics, CSR or education."
+    image: "images/services-web-development.png"
+    button:
+      label: "Learn more"
+      link: "mailto:contact@bziiit.com?subject=AI%20Advisory"

@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ $lang := .Site.Language.Lang }}
+  {{ $data := index .Site.Data $lang "home" }}
+  {{ with $data.hero }}{{ if .enable }}{{ partial "blocks/home/hero.html" . }}{{ end }}{{ end }}
+  {{ with $data.brands }}{{ if .enable }}{{ partial "blocks/home/brands.html" . }}{{ end }}{{ end }}
+  {{ with $data.portfolio }}{{ if .enable }}{{ partial "blocks/home/portfolio.html" . }}{{ end }}{{ end }}
+  {{ with $data.services }}{{ if .enable }}{{ partial "blocks/home/services.html" . }}{{ end }}{{ end }}
+  {{ with $data.testimonials }}{{ if .enable }}{{ partial "blocks/home/testimonials.html" . }}{{ end }}{{ end }}
+  {{ with $data.cta }}{{ if .enable }}{{ partial "blocks/home/cta.html" . }}{{ end }}{{ end }}
+{{ end }}

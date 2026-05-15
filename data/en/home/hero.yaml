@@ -1,0 +1,9 @@
+enable: true
+title: "INSPIRE, SIMPLIFY, ACT with AI"
+text: "Responsible AI solutions that turn your challenges into sustainable action."
+image: "images/hero-image.png"
+buttons:
+  - label: "Book a call with an AI expert"
+    url: "mailto:contact@bziiit.com"
+  - label: "Discover our services"
+    url: "#services"

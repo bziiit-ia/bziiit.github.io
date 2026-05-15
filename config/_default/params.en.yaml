@@ -1,0 +1,26 @@
+title: "bziiit"
+description: "Responsible AI solutions that turn your challenges into sustainable action"
+images:
+  - "images/bziiit.png"
+
+logo: "bziiit.png"
+
+favicons:
+  themeColor: "#FFFFFF"
+  backgroundColor: "#FFFFFF"
+  faviconColor: "#000000"
+
+social:
+  dribbble: ""
+  instagram: ""
+  facebook: ""
+  twitter: ""
+
+location:
+  - "6 rue du Courant, 33310 Lormont, France"
+
+contact:
+  - "contact@bziiit.com"
+  - "+33 6 70 76 14 99"
+
+copyright: "© 2026 bziiit — All rights reserved"

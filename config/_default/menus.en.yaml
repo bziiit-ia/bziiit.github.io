@@ -1,0 +1,38 @@
+main:
+  - name: "Home"
+    url: "/en/#hero"
+    weight: 1
+
+  - name: "Our services"
+    url: "/en/#services"
+    weight: 2
+
+  - name: "Testimonials"
+    url: "/en/#testimonials"
+    weight: 3
+
+  - name: "Blog"
+    url: "/en/blog"
+    weight: 4
+
+buttons:
+  - name: "Book a call"
+    url: "mailto:contact@bziiit.com"
+    weight: 1
+
+footer:
+  - name: "Home"
+    url: "/en/#hero"
+    weight: 1
+
+  - name: "Our services"
+    url: "/en/#services"
+    weight: 2
+
+  - name: "Testimonials"
+    url: "/en/#testimonials"
+    weight: 3
+
+  - name: "Blog"
+    url: "/en/blog"
+    weight: 4

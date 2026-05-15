@@ -1,0 +1,16 @@
+enable: true
+title: "Nos services"
+text: "Deux offres complémentaires pour intégrer l'IA Responsable dans vos processus, à votre rythme."
+cards:
+  - title: "Formation en Intelligence Artificielle"
+    text: "Montez en compétences pour mieux intégrer l'IA dans vos processus métiers, avec une approche pragmatique et responsable."
+    image: "images/services-web-development.png"
+    button:
+      label: "En savoir plus"
+      link: "mailto:contact@bziiit.com?subject=Formation%20IA"
+  - title: "Accompagnement et conseil stratégique IA"
+    text: "Une approche sur mesure pour répondre à vos enjeux en agriculture, logistique, RSE ou enseignement."
+    image: "images/services-web-development.png"
+    button:
+      label: "En savoir plus"
+      link: "mailto:contact@bziiit.com?subject=Conseil%20IA"

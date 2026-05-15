@@ -1,0 +1,38 @@
+main:
+  - name: "Accueil"
+    url: "/#hero"
+    weight: 1
+
+  - name: "Nos services"
+    url: "/#services"
+    weight: 2
+
+  - name: "Témoignages"
+    url: "/#testimonials"
+    weight: 3
+
+  - name: "Blog"
+    url: "/blog"
+    weight: 4
+
+buttons:
+  - name: "Prendre rendez-vous"
+    url: "mailto:contact@bziiit.com"
+    weight: 1
+
+footer:
+  - name: "Accueil"
+    url: "/#hero"
+    weight: 1
+
+  - name: "Nos services"
+    url: "/#services"
+    weight: 2
+
+  - name: "Témoignages"
+    url: "/#testimonials"
+    weight: 3
+
+  - name: "Blog"
+    url: "/blog"
+    weight: 4

@@ -1,0 +1,9 @@
+enable: true
+items:
+  - pretitle: "Laurent TRIPIED — CEO of bziiit"
+    title: "Your challenges, our mission."
+    text: "\"When the right conditions are in place, I am always impressed by how quickly teams rally around ambitious, virtuous goals. That is exactly why we designed this approach: 3 steps, 3 actions to move from exploring challenges to sustainable action, with responsible, open and sovereign AI solutions — Inspire, Simplify, Act.\""
+    image: "images/portfolio-ecommerce.png"
+    buttons:
+      - label: "Book a call"
+        link: "mailto:contact@bziiit.com"

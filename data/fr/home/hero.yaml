@@ -1,0 +1,9 @@
+enable: true
+title: "INSPIRER, SIMPLIFIER, AGIR avec l'IA"
+text: "Des solutions IA Responsable pour transformer vos défis en actions durables."
+image: "images/hero-image.png"
+buttons:
+  - label: "Prendre rendez-vous avec un expert IA"
+    url: "mailto:contact@bziiit.com"
+  - label: "Découvrir nos services"
+    url: "#services"

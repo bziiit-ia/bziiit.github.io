@@ -2,7 +2,9 @@ baseURL: "https://bziiit-ia.github.io/"
 title: "bziiit"
 summaryLength: 20
 
+defaultContentLanguage: "fr"
+defaultContentLanguageInSubdir: false
+
 # services:
 #   googleAnalytics:
 #     id: G-MEASUREMENT_ID
-

@@ -1,0 +1,9 @@
+enable: true
+items:
+  - pretitle: "Laurent TRIPIED — CEO de bziiit"
+    title: "Vos enjeux, notre mission."
+    text: "« Quand on crée les bonnes conditions, je suis toujours impressionné par la capacité des équipes à se mobiliser rapidement autour d'objectifs ambitieux et vertueux. C'est pour cela que nous avons conçu ce dispositif : 3 étapes, 3 actions pour passer de l'exploration des défis aux actions durables, avec des solutions IA responsables, ouvertes et souveraines : Inspirer, Simplifier, Agir. »"
+    image: "images/portfolio-ecommerce.png"
+    buttons:
+      - label: "Prendre rendez-vous"
+        link: "mailto:contact@bziiit.com"
