@@ -1,0 +1,8 @@
+baseURL: "https://bziiit-ia.github.io/"
+title: "bziiit"
+summaryLength: 20
+
+# services:
+#   googleAnalytics:
+#     id: G-MEASUREMENT_ID
+
