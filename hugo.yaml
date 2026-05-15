@@ -1,6 +1,3 @@
-baseURL: "https://bziiit-ia.github.io/"
-title: "bziiit"
-summaryLength: 20
 theme: "github.com/writeonlycode/hugo-up-business"
 languageCode: "en-us"
 
